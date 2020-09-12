@@ -4,4 +4,4 @@ Zapply is an online digital university fair platform that revolutionises the way
 Checkout our MVP and marketing video:
 https://drive.google.com/drive/folders/1-sobbP5BJUYxtePFNhAkv7lnOMs1ufao?usp=sharing
 
-This project was prepared for the BruinLabs competition at UCLA organized by Bruin Entrepreneurs, ACM @ UCLA and DevX.
+This project was prepared under BruinLabs at UCLA organized by Bruin Entrepreneurs, ACM @ UCLA and DevX.
